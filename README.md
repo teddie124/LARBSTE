@@ -1,5 +1,4 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
-
+# Luke's Auto-Rice Bootstrapping Scripts (LARBS) -
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
